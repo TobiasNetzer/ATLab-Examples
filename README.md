@@ -3,6 +3,7 @@
 This project demonstrates some of the features and capabilities of the [ATLab](https://github.com/TobiasNetzer/ATLab) testing framework.
 
 The hardware used for this demonstration is the [TIA-Demo Board](https://github.com/TobiasNetzer/TIA-Demo_HW).
+![image](ATLab_TIA-Demo/TIA-Demo-PCB.jpg)
 
 # Test Procedure
 
