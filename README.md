@@ -45,3 +45,8 @@ The firmware version is then read back and verified to confirm that programming 
 ## 8. MCU UART Test
 UART is used to communicate with the MCU.  
 The test reads back voltage measurements from the MCU's ADC and configures various DAC output voltages via UART.
+
+# Test Results
+After the test sequence has completed, the results can be exported in two formats:
+- [CSV Export](Prototype-001_2026-08-09_18-12-38.csv) - Raw measurement and test data for further analysis or processing.
+- [Test Report](Prototype-001_2026-08-09_16-03-28.pdf) - A formatted PDF report containing the test results and DUT information.
