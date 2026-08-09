@@ -1,0 +1,22 @@
+{
+  "id": "d8619e6497744a13ae54d8ff8d227634",
+  "name": "Configure \u0026 Query Frequency",
+  "description": "",
+  "variables": [],
+  "commands": [
+    {
+      "command": "SENS:FREQ:VOLT:RANGE 1",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "READ?",
+      "isExpectResponse": true,
+      "isEvaluate": true,
+      "delayMs": 2000,
+      "timeoutMs": 3000
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "069d866c7314437a9cac1e874271dd09",
+  "name": "Configure \u0026 Query Resistance",
+  "description": "",
+  "variables": [
+    {
+      "name": "NPLC",
+      "value": "5"
+    },
+    {
+      "name": "Range",
+      "value": "10000"
+    }
+  ],
+  "commands": [
+    {
+      "command": "SENS:RES:RANGE {Range}",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "SENS:RES:NPLC {NPLC}",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "READ?",
+      "isExpectResponse": true,
+      "isEvaluate": true,
+      "delayMs": 500,
+      "timeoutMs": 1000
+    }
+  ]
+}

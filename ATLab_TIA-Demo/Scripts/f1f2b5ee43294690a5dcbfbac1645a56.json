@@ -1,0 +1,38 @@
+{
+  "id": "f1f2b5ee43294690a5dcbfbac1645a56",
+  "name": "Configure \u0026 Query DC Voltage",
+  "description": "Configure the instrument for DC voltage measurement and query the resulting value.",
+  "variables": [
+    {
+      "name": "NPLC",
+      "value": "5"
+    },
+    {
+      "name": "Range",
+      "value": "100"
+    }
+  ],
+  "commands": [
+    {
+      "command": "SENS:VOLT:DC:RANGE {Range}",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "SENS:VOLT:NPLC {NPLC}",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "READ?",
+      "isExpectResponse": true,
+      "isEvaluate": true,
+      "delayMs": 500,
+      "timeoutMs": 1000
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4936bb09fd57468490ca696fb3aea702",
+  "name": "Configure \u0026 Query DC Voltage AUTO",
+  "description": "",
+  "variables": [
+    {
+      "name": "NPLC",
+      "value": "5"
+    }
+  ],
+  "commands": [
+    {
+      "command": "SENS:VOLT:DC:RANG:AUTO ON",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "SENS:VOLT:NPLC {NPLC}",
+      "isExpectResponse": false,
+      "isEvaluate": false,
+      "delayMs": 0,
+      "timeoutMs": 1000
+    },
+    {
+      "command": "READ?",
+      "isExpectResponse": true,
+      "isEvaluate": true,
+      "delayMs": 500,
+      "timeoutMs": 1000
+    }
+  ]
+}

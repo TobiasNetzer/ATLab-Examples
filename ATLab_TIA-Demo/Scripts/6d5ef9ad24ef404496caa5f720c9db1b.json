@@ -1,0 +1,15 @@
+{
+  "id": "6d5ef9ad24ef404496caa5f720c9db1b",
+  "name": "Query Measurement",
+  "description": "Query a measurement value from the instrument without altering its configuration.",
+  "variables": [],
+  "commands": [
+    {
+      "command": "READ?",
+      "isExpectResponse": true,
+      "isEvaluate": true,
+      "delayMs": 300,
+      "timeoutMs": 1000
+    }
+  ]
+}
