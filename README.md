@@ -1,6 +1,6 @@
 # ATLab Demo
 
-This project demonstrates some of the features and capabilities of the [ATLab](https://github.com/TobiasNetzer/ATLab) testing framework.
+This project demonstrates some of the features and capabilities of the [ATLab](https://github.com/TobiasNetzer/ATLab) testing framework. Check the latest release for a demonstration video.
 
 The hardware used for this demonstration is the [TIA-Demo Board](https://github.com/TobiasNetzer/TIA-Demo_HW).
 ![image](ATLab_TIA-Demo/TIA-Demo-PCB.jpg)
@@ -49,5 +49,5 @@ The test reads back voltage measurements from the MCU's ADC and configures vario
 
 # Test Results
 After the test sequence has completed, the results can be exported in two formats:
-- [CSV Export](Prototype-001_2026-08-09_18-12-38.csv) - Raw measurement and test data for further analysis or processing.
-- [Test Report](Prototype-001_2026-08-09_16-03-28.pdf) - A formatted PDF report containing the test results and DUT information.
+- [CSV Export](Prototype-001_2026-09-20_17-00-00.csv) - Raw measurement and test data for further analysis or processing.
+- [Test Report](Prototype-001_2026-09-20_17-00-00.pdf) - A formatted PDF report containing the test results and DUT information.

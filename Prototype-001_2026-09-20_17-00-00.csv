@@ -34,7 +34,7 @@
 51	Divider with 3k9	0.828	0.923899917	1.012	V	0.42	Pass
 52	Divider with 6k8	1.17	1.3323473	1.43	V	2.49	Pass
 53	### DIP Switch 4 ON? ###	0	0	0		0	Pass
-56	POT1 Adjusted to 1,5V	1.45	1.51253679	1.55	V	0.84	Pass
+56	POT1 Adjusted to 1.5V	1.45	1.51253679	1.55	V	0.84	Pass
 57	### DIP Switch 5 ON? ###	0	0	0		0	Pass
 60	Temperature Sensor VOUT	0.693	0.703025216	0.847	V	-8.7	Pass
 61	Temperature	18	20.3025216	32	°C	-18.79	Pass
