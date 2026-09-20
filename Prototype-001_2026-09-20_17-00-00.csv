@@ -1,0 +1,76 @@
+﻿Step	Name	Lower Limit	Measured Value	Upper Limit	Unit	Deviation (%)	Result
+2	VIN 12V?	10.8	11.9916867	13.2	V	-0.07	Pass
+3	U1 VOUT 3V3?	2.97	3.23083746	3.63	V	-2.1	Pass
+4	D2 Forward Voltage	1.71	2.01668336	2.09	V	6.14	Pass
+5	R1 Voltage Drop	1.17	1.28933278	1.43	V	-0.82	Pass
+6	D2 Forward Current	0.00117	0.00128933278	0.00143	A	-0.82	Pass
+10	Segment A ON?	2.97	3.20873364	3.63	V	-2.77	Pass
+12	Segment B ON?	2.97	3.18369393	3.63	V	-3.52	Pass
+14	Segment C ON?	2.97	3.19566331	3.63	V	-3.16	Pass
+16	Segment D ON?	2.97	3.25810732	3.63	V	-1.27	Pass
+18	Segment E ON?	2.97	3.1439748	3.63	V	-4.73	Pass
+20	Segment F ON?	2.97	3.18154848	3.63	V	-3.59	Pass
+22	Segment G ON?	2.97	3.17883843	3.63	V	-3.67	Pass
+23	### Read DIP Switches ###	0	0	255		-100	Pass
+24	### DIP Switch 1 ON? ###	0	0	0		0	Pass
+27	D3 Red Forward Voltage	1.53	1.76366423	1.87	V	3.74	Pass
+28	R22 Voltage Drop	1.35	1.50936046	1.65	V	0.62	Pass
+29	D3 Red Forward Current	0.001143	0.001257800383	0.001397	A	-0.96	Pass
+31	D3 Green Forward Voltage	2.07	2.25270561	2.53	V	-2.06	Pass
+32	R23 Voltage Drop	0.9	0.986085336	1.1	V	-1.39	Pass
+33	D3 Green Forward Current	0.000747	0.00082173778	0.000913	A	-1	Pass
+35	D3 Blue Forward Voltage	2.25	2.51378555	2.75	V	0.55	Pass
+36	R24 Voltage Drop	0.675	0.77372319	0.825	V	3.16	Pass
+37	D3 Green Forward Current	0.000576	0.000644769325	0.000704	A	0.75	Pass
+38	### DIP Switch 2 ON? ###	0	0	0		0	Pass
+41	Button 1 High?	2.97	3.22318723	3.63	V	-2.33	Pass
+42	Button 1 Low?	-0.2	0.00183344637	0.2	V	0	Pass
+43	Button 2 High?	2.97	3.23718914	3.63	V	-1.9	Pass
+44	Button 1 Low?	-0.2	0.00100054292	0.2	V	0	Pass
+45	### DIP Switch 3 ON? ###	0	0	0		0	Pass
+48	Divider with 680R	0.189	0.209169938	0.231	V	-0.4	Pass
+49	Divider with 1k2	0.315	0.35403867	0.385	V	1.15	Pass
+50	Divider with 2k2	0.531	0.593561939	0.649	V	0.6	Pass
+51	Divider with 3k9	0.828	0.923899917	1.012	V	0.42	Pass
+52	Divider with 6k8	1.17	1.3323473	1.43	V	2.49	Pass
+53	### DIP Switch 4 ON? ###	0	0	0		0	Pass
+56	POT1 Adjusted to 1,5V	1.45	1.51253679	1.55	V	0.84	Pass
+57	### DIP Switch 5 ON? ###	0	0	0		0	Pass
+60	Temperature Sensor VOUT	0.693	0.703025216	0.847	V	-8.7	Pass
+61	Temperature	18	20.3025216	32	°C	-18.79	Pass
+62	### DIP Switch 6 ON? ###	0	0	0		0	Pass
+64	Set I2C DAC to 0.5V	1	1	1		0	Pass
+65	Measure DAC Output 0.5V?	0.45	0.499020338	0.55	V	-0.2	Pass
+66	Set I2C DAC to 1.0V	1	1	1		0	Pass
+67	Measure DAC Output 1.0V?	0.9	0.97370472	1.1	V	-2.63	Pass
+68	Set I2C DAC to 1.5V	1	1	1		0	Pass
+69	Measure DAC Output 1.5V?	1.35	1.47711721	1.65	V	-1.53	Pass
+70	Set I2C DAC to 2.0V	1	1	1		0	Pass
+71	Measure DAC Output 2.0V?	1.8	1.97835569	2.2	V	-1.08	Pass
+72	Set I2C DAC to 2.5V	1	1	1		0	Pass
+73	Measure DAC Output 2.5V?	2.25	2.47182981	2.75	V	-1.13	Pass
+74	Set I2C DAC to 3.0V	1	1	1		0	Pass
+75	Measure DAC Output 3.0V?	2.7	2.96149233	3.3	V	-1.28	Pass
+76	### DIP Switch 7 ON? ###	0	0	0		0	Pass
+78	Program MCU	0	0	0		0	Pass
+79	Get FW-Version	1.2	1.2	1.2		0	Pass
+80	### DIP Switch 8 ON? ###	0	0	0		0	Pass
+83	Read POT2 Value from MCU	1450	1517	1550	mV	1.13	Pass
+84	Configure MCU DAC to 0.5V	1	1	1		0	Pass
+85	Read DAC Output from MCU ADC	450	500	550	mV	0	Pass
+86	Measure DAC Output Voltage	0.45	0.500912018	0.55	V	0.18	Pass
+87	Configure MCU DAC to 1.0V	1	1	1		0	Pass
+88	Read DAC Output from MCU ADC	950	995	1050	mV	-0.5	Pass
+89	Measure DAC Output Voltage	0.95	0.978109227	1.05	V	-2.19	Pass
+90	Configure MCU DAC to 1.5V	1	1	1		0	Pass
+91	Read DAC Output from MCU ADC	1450	1492	1550	mV	-0.53	Pass
+92	Measure DAC Output Voltage	1.45	1.47655253	1.55	V	-1.56	Pass
+93	Configure MCU DAC to 2.0V	1	1	1		0	Pass
+94	Read DAC Output from MCU ADC	1950	1989	2050	mV	-0.55	Pass
+95	Measure DAC Output Voltage	1.95	1.9690667	2.05	V	-1.55	Pass
+96	Configure MCU DAC to 2.5V	1	1	1		0	Pass
+97	Read DAC Output from MCU ADC	2450	2485	2550	mV	-0.6	Pass
+98	Measure DAC Output Voltage	2.45	2.46448896	2.55	V	-1.42	Pass
+99	Configure MCU DAC to 3.0V	1	1	1		0	Pass
+100	Read DAC Output from MCU ADC	2950	2979	3050	mV	-0.7	Pass
+101	Measure DAC Output Voltage	2.95	2.96425927	3.05	V	-1.19	Pass
