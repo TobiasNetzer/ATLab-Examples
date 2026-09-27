@@ -74,7 +74,8 @@
       },
       "ExtStimState": {
         "EnabledChannels": []
-      }
+      },
+      "StepColor": "#ffe81123"
     },
     {
       "Id": "acb3239483da493fb9f5f81f5e4c9d5e",
@@ -161,7 +162,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "1759d366cbb44aa2a1cf8b66def537af",
@@ -248,7 +250,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "720e801104214ac4998becc42e707264",
@@ -326,7 +329,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "9cbed3810b1648b99279636075d9af01",
@@ -404,7 +408,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "acb407b09f8f4dae9d88fef963697b20",
@@ -482,7 +487,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "6057b4784f034f0fa59171a8f443950a",
@@ -560,7 +566,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "f53e92517286446f9c9f726dc644b34c",
@@ -638,7 +645,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "47846f0b3ace4a71a644c34d2baf1acc",
@@ -716,7 +724,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "674b0040c2c44223b7ab826b84d00b71",
@@ -796,7 +805,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "5096780651794f2d9bfbe2167fd55cdf",
@@ -874,7 +884,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "a83c9d4dc75240378ae7ee2beabb67f4",
@@ -954,7 +965,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "9ce52d8450904b58bec44c09aa985fd8",
@@ -1032,7 +1044,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "8ebdcb7fe1814ae6b6913d2e7f2b1f28",
@@ -1112,7 +1125,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "127aa732960f4f4097464c604125af89",
@@ -1190,7 +1204,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "5306648ca2574589b5516d937967af53",
@@ -1270,7 +1285,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "e49109bd345848b4a70db3ed717b4911",
@@ -1348,7 +1364,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "6bca69d355004516ab2f6186a0c0079e",
@@ -1428,7 +1445,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "b18627ff5c1943c9aebcc0df26aacbf4",
@@ -1506,7 +1524,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "d0ae6a2d33b64d79b3828cbdd7d02c80",
@@ -1586,7 +1605,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "45aa38c22b7d4f96b3ef268e963c18e5",
@@ -1664,7 +1684,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "bff03bf9fdda472b884b8a2205051a9a",
@@ -1744,7 +1765,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffe609"
     },
     {
       "Id": "0cf844b54267430db6ef963a301181b0",
@@ -1822,7 +1844,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffe81123"
     },
     {
       "Id": "22da8c03e1a24d11a13f498ef2e76e56",
@@ -1900,7 +1923,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "47d60c3d48fd44778529f65777a68f2b",
@@ -1978,7 +2002,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "8e913c934d8e4bf6a41474ca4cf4a971",
@@ -2058,7 +2083,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "fa31246708144c8599bf628fe5a471a8",
@@ -2138,7 +2164,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "f6a941135063418ab82a30b83eafe15c",
@@ -2218,7 +2245,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "8706dfad9b984e0cbc798d89f3ce1c58",
@@ -2298,7 +2326,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "5b686d12b0e74c67a4540e2178566377",
@@ -2378,7 +2407,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "0ae784fcbc2644c58f41454ca9b846d2",
@@ -2458,7 +2488,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "071651ac45984d9686f1f4e3cea36333",
@@ -2538,7 +2569,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "11edab640e064ba18919ea1b5a9c107b",
@@ -2618,7 +2650,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "3c24d00e79af4e138d14a9085ae273e6",
@@ -2698,7 +2731,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "3cf0f5406af940e18161752b94242bae",
@@ -2778,7 +2812,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "7c10f739986647698f06ddcad4e14dd4",
@@ -2858,7 +2893,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "2c2141a9670d498394a818f2603eadd7",
@@ -2938,7 +2974,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "61b0c59280e24ab9b8e052d23c785aa4",
@@ -3018,7 +3055,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0acc2d"
     },
     {
       "Id": "837be783549d47fc86db005b3042c53a",
@@ -3096,7 +3134,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "d8767fabf3784587b10251753678a407",
@@ -3174,7 +3213,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "913bd64d8cef4502821136c3fa1ff0bc",
@@ -3252,7 +3292,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "7662b1e1c78940168b6a94a7905caf9c",
@@ -3330,7 +3371,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "ea1f8d2258e8473b831b64eee8a680c7",
@@ -3408,7 +3450,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "edfefa76fa79458099d16247d9ec1bb8",
@@ -3486,7 +3529,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "b5aabbcb9afa4e11adacfa3cacf307cc",
@@ -3564,7 +3608,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffdd26ff"
     },
     {
       "Id": "5b768593cf8841fab010a71a00b29715",
@@ -3642,7 +3687,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "0189300008c840beb5be4a85ef45549e",
@@ -3720,7 +3766,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "45cd8aa5756d4954b04fed3f453d6a29",
@@ -3798,7 +3845,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "61e3a382cb5f49889abf02172fb7a124",
@@ -3878,7 +3926,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "aacdde02ca1646dbb389069620e50aed",
@@ -3958,7 +4007,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "6afde9c1e42c436d82df2012c2cac7ee",
@@ -4038,7 +4088,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "a50a4be57c7e4567a50d2ebc08ba22ab",
@@ -4118,7 +4169,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "a6d0c4b785474bab8ecaff63a8eb4589",
@@ -4198,7 +4250,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff0ce7ff"
     },
     {
       "Id": "49caa443729c47328fce8b7c681ebd40",
@@ -4276,7 +4329,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffff7bb7"
     },
     {
       "Id": "60571200d89e4bd39071b5d42b26ea4e",
@@ -4354,7 +4408,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffff7bb7"
     },
     {
       "Id": "4001ac8ed86f40a4a73d93f12baf1685",
@@ -4432,7 +4487,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffff7bb7"
     },
     {
       "Id": "86af2483f2ee44adb6ee634a897c9ec1",
@@ -4510,7 +4566,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffff7bb7"
     },
     {
       "Id": "60a1f3860eb742229265336a6651d092",
@@ -4588,7 +4645,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffb057"
     },
     {
       "Id": "fcf3adfc46884a268d0a1c4b1893cbf5",
@@ -4666,7 +4724,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffb057"
     },
     {
       "Id": "527fbad890bc4b12af00fe0550ac78e7",
@@ -4744,7 +4803,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffb057"
     },
     {
       "Id": "9976c58b6d8b42a580d83bfc3663d6af",
@@ -4822,7 +4882,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffb057"
     },
     {
       "Id": "318498d92dfa4f8c9d906c63035637ac",
@@ -4900,7 +4961,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffb057"
     },
     {
       "Id": "c6b787de0a014763b3771563cfef326e",
@@ -4978,7 +5040,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "5dfdc862e6934d67935eb5ca8a593305",
@@ -5056,7 +5119,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "ebf1129e8f694ff299e94320eac8246e",
@@ -5134,7 +5198,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "3e596341c1a446cf9bec70f3025d532b",
@@ -5214,7 +5279,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "b832d29b5c264de4aaec66e83194304e",
@@ -5292,7 +5358,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "d3cb33693b0b41b1a9441a7bb9a5beb1",
@@ -5372,7 +5439,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "71050b5f618743ddbd95cf74befdebc2",
@@ -5450,7 +5518,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "6e2b6323fdd04f7ca0a3bb41f84d5660",
@@ -5530,7 +5599,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "9e3bd4d9452144418f2326262eb0315e",
@@ -5608,7 +5678,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "b1b84d219600443e9d6e264e5134073c",
@@ -5688,7 +5759,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "ac6049e2c46f4c10ad04eeaf6f4e9a29",
@@ -5766,7 +5838,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "d3f57909de824655bb68864f43b6a493",
@@ -5846,7 +5919,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "77ae0964da3942d7a8b3b9edab28d120",
@@ -5924,7 +5998,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "e63ddb554c97443f8875f3039de19e51",
@@ -6004,7 +6079,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ff1486ff"
     },
     {
       "Id": "1ceb73933afd43be82733c038bcbdfca",
@@ -6082,7 +6158,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffbb8bff"
     },
     {
       "Id": "bb4f098d4aac4bf2bda37e82b9e47ccf",
@@ -6160,7 +6237,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffbb8bff"
     },
     {
       "Id": "6cf9247ed29b489e983203a45b6e3151",
@@ -6238,7 +6316,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffbb8bff"
     },
     {
       "Id": "1497051a186944139090d35a19542e30",
@@ -6316,7 +6395,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffbb8bff"
     },
     {
       "Id": "e84828906c4a44d683f4f60c597a8eca",
@@ -6394,7 +6474,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "e71893cd707943c08e1b4c042bc646b6",
@@ -6472,7 +6553,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "51efa4cc038f4a028de02151c75cb173",
@@ -6550,7 +6632,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "da3b7be9420f46328a4e95fb205562a1",
@@ -6628,7 +6711,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "19961f87c6a7495691693ad20c905fda",
@@ -6706,7 +6790,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "f03fa48afe904fdc8a3d8c55f0d8f414",
@@ -6784,7 +6869,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "f014909b7ba54177888589a2f1a484d9",
@@ -6862,7 +6948,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "f788fc092161481e9d130ade7f6119a4",
@@ -6940,7 +7027,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "ea8214a9f14f4c5abdf4bd4ff17b58b2",
@@ -7018,7 +7106,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "2caf06e0327a4dc18f856abfec0c426b",
@@ -7096,7 +7185,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "4504e03c91e148cb9f0cecf50074d9e9",
@@ -7174,7 +7264,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "68212f74399a4a7aa7fb82ef9a20f61a",
@@ -7252,7 +7343,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "9f4684877c4c426a938db29bd47b8ea8",
@@ -7330,7 +7422,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "87e4ca48f27449dda6cd84ac5e1ca5e3",
@@ -7408,7 +7501,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "426b6d51dfb449adac3185d56386cb7a",
@@ -7486,7 +7580,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "c9cb589f96e145b993e6d7ccf2e32621",
@@ -7564,7 +7659,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "0a08ec306c81429c85909f2ccf4cfc86",
@@ -7642,7 +7738,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "5867539544f445d5a603dc04231c748b",
@@ -7720,7 +7817,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "d22acdda757b4fd7a8b4dd6a67efe38d",
@@ -7798,7 +7896,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "aed98004de1d410cb48bf03da378a986",
@@ -7876,7 +7975,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "75b7069fa2f744d78290e2302e10e225",
@@ -7954,7 +8054,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "b327440e84804e898ef2365f1b30b6c0",
@@ -8032,7 +8133,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     },
     {
       "Id": "b868fa4ed05a46368b624cd60b8a7551",
@@ -8110,7 +8212,8 @@
         "EnabledChannels": [
           1
         ]
-      }
+      },
+      "StepColor": "#ffffd851"
     }
   ],
   "StimChannelNames": [
@@ -8347,16 +8450,17 @@
     "DisplayedDecimalPlaces": 3,
     "IsUseSerialNumber": true,
     "IsSaveTestResult": true,
-    "IsExportCsv": false,
+    "IsExportCsv": true,
     "IsExportPdf": true,
     "SaveTestResultOptions": 0,
-    "SaveTestResultFilePath": "C:\\Users\\Tobias\\Desktop\\",
+    "SaveTestResultFilePath": "",
     "IsEnableSerialNumberValidation": false,
     "SerialNumberValidationLength": 0,
     "SerialNumberValidationStartsWith": "",
     "SerialNumberValidationEndsWith": "",
     "SerialNumberValidationContains": "",
-    "IsControlModuleEnabled": false
+    "IsControlModuleEnabled": false,
+    "ToastLogLevel": 0
   },
   "ProjectDocumentation": {
     "ImagePaths": [
