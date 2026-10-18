@@ -49,5 +49,5 @@ The test reads back voltage measurements from the MCU's ADC and configures vario
 
 # Test Results
 After the test sequence has completed, the results can be exported in two formats:
-- [CSV Export](Prototype-001_2026-09-20_17-00-00.csv) - Raw measurement and test data for further analysis or processing.
-- [Test Report](Prototype-001_2026-09-20_17-00-00.pdf) - A formatted PDF report containing the test results and DUT information.
+- [CSV Export](Prototype-001_2026-10-18_18-50-00.csv) - Raw measurement and test data for further analysis or processing.
+- [Test Report](Prototype-001_2026-10-18_18-50-00.pdf) - A formatted PDF report containing the test results and DUT information.
