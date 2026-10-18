@@ -20,11 +20,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -97,11 +99,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 1,
         "JumpToId": ""
       },
@@ -109,10 +113,12 @@
       "ScriptId": "f1f2b5ee43294690a5dcbfbac1645a56",
       "ScriptVariables": [
         {
+          "IsSystem": false,
           "Name": "NPLC",
           "Value": "1"
         },
         {
+          "IsSystem": false,
           "Name": "Range",
           "Value": "100"
         }
@@ -185,11 +191,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -197,10 +205,12 @@
       "ScriptId": "f1f2b5ee43294690a5dcbfbac1645a56",
       "ScriptVariables": [
         {
+          "IsSystem": false,
           "Name": "NPLC",
           "Value": "1"
         },
         {
+          "IsSystem": false,
           "Name": "Range",
           "Value": "10"
         }
@@ -273,11 +283,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -352,11 +364,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -431,11 +445,13 @@
       "VariableName": "Current",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -499,7 +515,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -510,11 +526,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -546,7 +564,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -578,7 +596,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -589,11 +607,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -625,7 +645,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -657,7 +677,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -668,11 +688,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -704,7 +726,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -747,11 +769,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -817,7 +841,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -828,11 +852,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -864,7 +890,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -907,11 +933,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -977,7 +1005,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -988,11 +1016,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1024,7 +1054,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -1067,11 +1097,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1137,7 +1169,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -1148,11 +1180,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1184,7 +1218,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -1227,11 +1261,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1297,7 +1333,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -1308,11 +1344,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1344,7 +1382,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -1387,11 +1425,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1457,7 +1497,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -1468,11 +1508,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1504,7 +1546,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -1547,11 +1589,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1617,7 +1661,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -1628,11 +1672,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1664,7 +1710,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -1707,11 +1753,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1788,11 +1836,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1867,11 +1917,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "837be783549d47fc86db005b3042c53a"
       },
@@ -1935,7 +1987,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -1946,11 +1998,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -1982,7 +2036,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -2025,11 +2079,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2106,11 +2162,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2187,11 +2245,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2268,11 +2328,13 @@
       "VariableName": "Current",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2349,11 +2411,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2430,11 +2494,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2511,11 +2577,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2592,11 +2660,13 @@
       "VariableName": "Current",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2673,11 +2743,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2754,11 +2826,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2835,11 +2909,13 @@
       "VariableName": "Voltage_Drop",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2916,11 +2992,13 @@
       "VariableName": "Current",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -2997,11 +3075,13 @@
       "VariableName": "Current",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3078,11 +3158,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "5b768593cf8841fab010a71a00b29715"
       },
@@ -3146,7 +3228,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -3157,11 +3239,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3193,7 +3277,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -3236,11 +3320,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3315,11 +3401,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3394,11 +3482,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 1,
         "JumpToId": ""
       },
@@ -3473,11 +3563,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3552,11 +3644,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 1,
         "JumpToId": ""
       },
@@ -3631,11 +3725,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "49caa443729c47328fce8b7c681ebd40"
       },
@@ -3699,7 +3795,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -3710,11 +3806,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3746,7 +3844,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -3789,11 +3887,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3868,11 +3968,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -3949,11 +4051,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4030,11 +4134,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4111,11 +4217,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4192,11 +4300,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4273,11 +4383,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "60a1f3860eb742229265336a6651d092"
       },
@@ -4341,7 +4453,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -4352,11 +4464,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4388,7 +4502,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -4431,11 +4545,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4510,11 +4626,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4589,11 +4707,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 2,
         "JumpToId": ""
       },
@@ -4657,7 +4777,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -4668,11 +4788,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4704,7 +4826,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -4747,11 +4869,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4826,11 +4950,13 @@
       "VariableName": "V_Temperature",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4905,11 +5031,13 @@
       "VariableName": "V_Temperature",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -4984,11 +5112,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "1ceb73933afd43be82733c038bcbdfca"
       },
@@ -5052,7 +5182,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5063,11 +5193,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5099,7 +5231,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5131,7 +5263,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5142,11 +5274,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5178,7 +5312,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5221,11 +5355,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5291,7 +5427,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5302,11 +5438,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5338,7 +5476,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5381,11 +5519,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5451,7 +5591,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5462,11 +5602,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5498,7 +5640,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5541,11 +5683,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5611,7 +5755,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5622,11 +5766,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5658,7 +5804,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5701,11 +5847,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5771,7 +5919,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5782,11 +5930,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5818,7 +5968,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -5861,11 +6011,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5931,7 +6083,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -5942,11 +6094,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -5978,7 +6132,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -6021,11 +6175,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6102,11 +6258,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 3,
         "JumpToId": "e84828906c4a44d683f4f60c597a8eca"
       },
@@ -6170,7 +6328,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -6181,11 +6339,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6217,7 +6377,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -6252,7 +6412,7 @@
       "EvaluationSource": 6,
       "IsCustomResponseMask": true,
       "Comment": "Attach external programmer and program the MCU",
-      "IsShowComment": true,
+      "IsShowComment": false,
       "CustomMessageBoxImagePath": "",
       "IsIgnoreStep": false,
       "IsExcludeFromExport": false,
@@ -6260,11 +6420,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6339,11 +6501,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6418,11 +6582,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": true,
+        "IsIncludeResult": false,
         "Mode": 2,
         "JumpToId": ""
       },
@@ -6486,7 +6652,7 @@
       "UpperLimitExpression": "1",
       "Unit": "",
       "DelayExpression": "0.1",
-      "EvaluationSource": 3,
+      "EvaluationSource": 6,
       "IsCustomResponseMask": false,
       "Comment": "",
       "IsShowComment": false,
@@ -6497,11 +6663,13 @@
       "VariableName": "DIP_State",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6533,7 +6701,7 @@
         "Option": 0,
         "IsDirectLaunch": false
       },
-      "Expression": "",
+      "Expression": "1",
       "FilePath": "",
       "ResponseMask": {
         "Mask": "{byte:1}",
@@ -6576,11 +6744,13 @@
       "VariableName": "",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6655,11 +6825,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6734,11 +6906,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6813,11 +6987,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6892,11 +7068,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -6971,11 +7149,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7050,11 +7230,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7129,11 +7311,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7208,11 +7392,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7287,11 +7473,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7366,11 +7554,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7445,11 +7635,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7524,11 +7716,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7603,11 +7797,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7682,11 +7878,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7761,11 +7959,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7840,11 +8040,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7919,11 +8121,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -7998,11 +8202,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -8077,11 +8283,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
@@ -8156,11 +8364,13 @@
       "VariableName": "POT2_MV",
       "OnPass": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 0,
         "JumpToId": ""
       },
       "OnFail": {
         "IsInvertResult": false,
+        "IsIncludeResult": false,
         "Mode": 1,
         "JumpToId": ""
       },
@@ -8364,82 +8574,21 @@
     {
       "ChannelIndex": 16,
       "ChannelName": "7 Seg"
-    },
-    {
-      "ChannelIndex": 17,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 18,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 19,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 20,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 21,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 22,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 23,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 24,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 25,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 26,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 27,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 28,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 29,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 30,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 31,
-      "ChannelName": ""
-    },
-    {
-      "ChannelIndex": 32,
-      "ChannelName": ""
     }
   ],
   "RuntimeVariables": [
     {
+      "IsSystem": false,
       "Name": "Voltage_Drop",
       "Value": "0"
     },
     {
+      "IsSystem": false,
       "Name": "V_Temperature",
       "Value": "0"
     },
     {
+      "IsSystem": false,
       "Name": "DIP_State",
       "Value": "255"
     }
