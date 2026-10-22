@@ -8,7 +8,7 @@
       "command": "READ?",
       "isExpectResponse": true,
       "isEvaluate": true,
-      "delayMs": 300,
+      "delayMs": 120,
       "timeoutMs": 1000
     }
   ]
