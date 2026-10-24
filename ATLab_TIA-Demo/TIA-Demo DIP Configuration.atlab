@@ -8155,5 +8155,5 @@
     "PartNumber": "-",
     "AdditionalNotes": "DIP switches determine which tests are executed"
   },
-  "ScriptFolderPath": "Scripts\\"
+  "ScriptFolderPath": "Scripts/"
 }
