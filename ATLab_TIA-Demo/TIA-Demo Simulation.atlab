@@ -61,10 +61,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0",
           "FilePath": "",
@@ -140,10 +139,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "12,031",
           "FilePath": "",
@@ -221,10 +219,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,302",
           "FilePath": "",
@@ -302,10 +299,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,903",
           "FilePath": "",
@@ -383,10 +379,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,332",
           "FilePath": "",
@@ -464,10 +459,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1000",
           "FilePath": "",
@@ -545,10 +539,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -626,10 +619,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -707,10 +699,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -788,10 +779,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,293",
           "FilePath": "",
@@ -871,10 +861,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -952,10 +941,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,275",
           "FilePath": "",
@@ -1035,10 +1023,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -1116,10 +1103,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,265",
           "FilePath": "",
@@ -1199,10 +1185,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -1280,10 +1265,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,273",
           "FilePath": "",
@@ -1363,10 +1347,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -1444,10 +1427,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,286",
           "FilePath": "",
@@ -1527,10 +1509,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -1608,10 +1589,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,299",
           "FilePath": "",
@@ -1691,10 +1671,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -1772,10 +1751,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,264",
           "FilePath": "",
@@ -1855,10 +1833,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0",
           "FilePath": "",
@@ -1944,10 +1921,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x1",
           "FilePath": "",
@@ -2025,10 +2001,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -2106,10 +2081,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -2189,10 +2163,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,697",
           "FilePath": "",
@@ -2272,10 +2245,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,456",
           "FilePath": "",
@@ -2355,10 +2327,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1200",
           "FilePath": "",
@@ -2438,10 +2409,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "",
           "FilePath": "",
@@ -2521,10 +2491,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,285",
           "FilePath": "",
@@ -2604,10 +2573,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,963",
           "FilePath": "",
@@ -2687,10 +2655,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1200",
           "FilePath": "",
@@ -2770,10 +2737,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1200",
           "FilePath": "",
@@ -2853,10 +2819,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,531",
           "FilePath": "",
@@ -2936,10 +2901,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,752",
           "FilePath": "",
@@ -3019,10 +2983,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1200",
           "FilePath": "",
@@ -3102,10 +3065,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{Voltage_Drop} / 1200",
           "FilePath": "",
@@ -3191,10 +3153,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x2",
           "FilePath": "",
@@ -3272,10 +3233,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -3353,10 +3313,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,252",
           "FilePath": "",
@@ -3434,10 +3393,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,056",
           "FilePath": "",
@@ -3515,10 +3473,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,287",
           "FilePath": "",
@@ -3596,10 +3553,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,049",
           "FilePath": "",
@@ -3685,10 +3641,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x4",
           "FilePath": "",
@@ -3766,10 +3721,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -3847,10 +3801,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,220",
           "FilePath": "",
@@ -3930,10 +3883,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,368",
           "FilePath": "",
@@ -4013,10 +3965,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,630",
           "FilePath": "",
@@ -4096,10 +4047,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,990",
           "FilePath": "",
@@ -4179,10 +4129,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,23",
           "FilePath": "",
@@ -4270,10 +4219,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x8",
           "FilePath": "",
@@ -4351,10 +4299,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -4432,10 +4379,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,514",
           "FilePath": "",
@@ -4521,10 +4467,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x10",
           "FilePath": "",
@@ -4602,10 +4547,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -4683,10 +4627,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,74",
           "FilePath": "",
@@ -4764,10 +4707,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "({V_Temperature} - 0,5) / 0,01",
           "FilePath": "",
@@ -4853,10 +4795,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x20",
           "FilePath": "",
@@ -4934,10 +4875,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5015,10 +4955,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5096,10 +5035,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,504",
           "FilePath": "",
@@ -5179,10 +5117,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5260,10 +5197,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,024",
           "FilePath": "",
@@ -5343,10 +5279,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5424,10 +5359,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,532",
           "FilePath": "",
@@ -5507,10 +5441,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5588,10 +5521,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,065",
           "FilePath": "",
@@ -5671,10 +5603,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5752,10 +5683,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,515",
           "FilePath": "",
@@ -5835,10 +5765,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -5916,10 +5845,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,121",
           "FilePath": "",
@@ -6007,10 +5935,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x40",
           "FilePath": "",
@@ -6088,10 +6015,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -6169,10 +6095,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0",
           "FilePath": "",
@@ -6250,10 +6175,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,2",
           "FilePath": "",
@@ -6339,10 +6263,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "{DIP_State} \u0026 0x80",
           "FilePath": "",
@@ -6420,10 +6343,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -6501,10 +6423,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1502",
           "FilePath": "",
@@ -6582,10 +6503,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -6663,10 +6583,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "505",
           "FilePath": "",
@@ -6744,10 +6663,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "0,507",
           "FilePath": "",
@@ -6825,10 +6743,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -6906,10 +6823,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1005",
           "FilePath": "",
@@ -6987,10 +6903,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,002",
           "FilePath": "",
@@ -7068,10 +6983,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -7149,10 +7063,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1510",
           "FilePath": "",
@@ -7230,10 +7143,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1,514",
           "FilePath": "",
@@ -7311,10 +7223,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -7392,10 +7303,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2015",
           "FilePath": "",
@@ -7473,10 +7383,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,005",
           "FilePath": "",
@@ -7554,10 +7463,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -7635,10 +7543,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2507",
           "FilePath": "",
@@ -7716,10 +7623,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "2,509",
           "FilePath": "",
@@ -7797,10 +7703,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "1",
           "FilePath": "",
@@ -7878,10 +7783,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3020",
           "FilePath": "",
@@ -7959,10 +7863,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "3,006",
           "FilePath": "",
@@ -8040,10 +7943,9 @@
             "Command": "",
             "BytesToRead": 0
           },
-          "ShellCommand": {
+          "ExternalProgram": {
             "Command": "",
-            "Option": 0,
-            "IsDirectLaunch": false
+            "EvaluateOutput": false
           },
           "Expression": "4,89",
           "FilePath": "",
